@@ -1,6 +1,7 @@
 {
   "fuel_fedex": "47.75",
   "fuel_dhl": "43.25",
-  "peak": "0",
+  "peak_cee": "1",
+  "peak_extracee": "1",
   "inbound": "2.25"
 }
