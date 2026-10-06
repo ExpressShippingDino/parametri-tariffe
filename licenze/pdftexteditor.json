@@ -2,12 +2,7 @@
   "app_attiva": true,
   "messaggio": "",
   "licenze": {
-    "500d3b910688a4c92dbf3c28ccc214415d8a73bca7b978ea9ed52c0324f685ca": {
-      "cliente": "NEW MURANO GALLERY",
-      "attiva": true
-      "3ed586d12b506e877f2f22806de530c78c7e0c9c51e05184ce1e1b953950ec4f": {
-        "cliente": "PROVA", 
-        "attiva": true},
-    }
+    "500d3b910688a4c92dbf3c28ccc214415d8a73bca7b978ea9ed52c0324f685ca": {"cliente": "NEW MURANO GALLERY", "attiva": true},
+    "3ed586d12b506e877f2f22806de530c78c7e0c9c51e05184ce1e1b953950ec4f": {"cliente": "PROVA", "attiva": true}
   }
 }
